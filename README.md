@@ -11,4 +11,4 @@ This project showcases a comprehensive set of SQL queries used to extract insigh
 
 **Skills used:** SQL, CTEs, JOINS, aggregations, window functions, DATE functions.
 
-👉 [View queries in Retail_Data_Analysis.sql](Retail_Data_Analysis.sql)
+👉 [View queries in Retail_Data_Analysis.sql](**Retail_Data_Analysis.sql**)
